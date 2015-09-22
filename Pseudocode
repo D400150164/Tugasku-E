@@ -1,0 +1,8 @@
+Input a,b,c
+D=b^2-4*a*c
+If (d>0)
+Else
+A=sqrt(d)
+X1= (-B+(a))/(2*A)
+X2= (-B-(a))/(2*A)
+X1,X2
